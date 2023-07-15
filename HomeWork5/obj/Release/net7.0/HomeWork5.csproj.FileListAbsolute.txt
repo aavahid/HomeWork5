@@ -1,0 +1,15 @@
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/bin/Release/net7.0/HomeWork5
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/bin/Release/net7.0/HomeWork5.deps.json
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/bin/Release/net7.0/HomeWork5.runtimeconfig.json
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/bin/Release/net7.0/HomeWork5.dll
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/bin/Release/net7.0/HomeWork5.pdb
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/HomeWork5.csproj.AssemblyReference.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/HomeWork5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/HomeWork5.AssemblyInfoInputs.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/HomeWork5.AssemblyInfo.cs
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/HomeWork5.csproj.CoreCompileInputs.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/HomeWork5.dll
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/refint/HomeWork5.dll
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/HomeWork5.pdb
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/HomeWork5.genruntimeconfig.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork5/HomeWork5/obj/Release/net7.0/ref/HomeWork5.dll
